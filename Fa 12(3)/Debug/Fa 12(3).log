@@ -1,0 +1,11 @@
+﻿Functions and structures.obj : error LNK2005: "void __cdecl CreateOperation(char,int,struct Operation * *,unsigned int *)" (?CreateOperation@@YAXDHPAPAUOperation@@PAI@Z) уже определен в Fa 12(3).obj
+Functions and structures.obj : error LNK2005: "int __cdecl comparison(char,char,struct Operation * *,unsigned int)" (?comparison@@YAHDDPAPAUOperation@@I@Z) уже определен в Fa 12(3).obj
+Functions and structures.obj : error LNK2005: "void __cdecl error(int,struct _iobuf *)" (?error@@YAXHPAU_iobuf@@@Z) уже определен в Fa 12(3).obj
+Functions and structures.obj : error LNK2005: "void __cdecl error_with_exit(int,int,...)" (?error_with_exit@@YAXHHZZ) уже определен в Fa 12(3).obj
+Functions and structures.obj : error LNK2005: "char __cdecl popd(struct Stack_c * *)" (?popd@@YADPAPAUStack_c@@@Z) уже определен в Fa 12(3).obj
+Functions and structures.obj : error LNK2005: "int __cdecl popi(struct Stack_i * *)" (?popi@@YAHPAPAUStack_i@@@Z) уже определен в Fa 12(3).obj
+Functions and structures.obj : error LNK2005: "void __cdecl printStack(struct _iobuf *,struct Stack_c *,struct _iobuf *)" (?printStack@@YAXPAU_iobuf@@PAUStack_c@@0@Z) уже определен в Fa 12(3).obj
+Functions and structures.obj : error LNK2005: "void __cdecl push(struct Stack_c * *,char)" (?push@@YAXPAPAUStack_c@@D@Z) уже определен в Fa 12(3).obj
+Functions and structures.obj : error LNK2005: "void __cdecl pushi(struct Stack_i * *,int)" (?pushi@@YAXPAPAUStack_i@@H@Z) уже определен в Fa 12(3).obj
+Functions and structures.obj : error LNK2005: "char const * * errors" (?errors@@3PAPBDA) уже определен в Fa 12(3).obj
+C:\Users\Антон\source\repos\Fa (3)\Debug\Fa 12(3).exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более

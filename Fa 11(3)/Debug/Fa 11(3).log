@@ -1,0 +1,6 @@
+﻿  Fa 11(3).cpp
+C:\Users\Антон\source\repos\Fa (3)\Fa 11(3)\Fa 11(3).cpp(66,42): warning C4244:  аргумент: преобразование "double" в "size_t", возможна потеря данных
+C:\Users\Антон\source\repos\Fa (3)\Fa 11(3)\Fa 11(3).cpp(87,73): warning C4244:  аргумент: преобразование "double" в "size_t", возможна потеря данных
+C:\Users\Антон\source\repos\Fa (3)\Fa 11(3)\Fa 11(3).cpp(64,16): warning C4101:  fin2: неиспользованная локальная переменная
+C:\Users\Антон\source\repos\Fa (3)\Fa 11(3)\Fa 11(3).cpp(218,11): warning C4101:  is_first_instruction: неиспользованная локальная переменная
+  Fa 11(3).vcxproj -> C:\Users\Антон\source\repos\Fa (3)\Debug\Fa 11(3).exe

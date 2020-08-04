@@ -1,0 +1,3 @@
+Command: READ(A,2)
+Command: RC:=\A
+Command: RWRITE(C,2)
